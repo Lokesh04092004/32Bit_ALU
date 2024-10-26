@@ -160,6 +160,8 @@ Outputs: Elaborate database updated in mapped library if successful, generates r
 After elaboration the file will come under snapshot. Select the test bench and simulate it.
 
 ## Fig 8: Elaboration Launch Option
+![exp3 pdvlsi_085237](https://github.com/user-attachments/assets/b8fa0393-8bf6-437c-bb1b-378671f35db6)
+
 
 ## Step 3: Simulation: 
 
@@ -179,6 +181,7 @@ Steps for simulation – Run the simulation command with simulator options
 
 ## Fig 11:Simulation Waveform Window
 
+![exp3 output pdvlsi_085155](https://github.com/user-attachments/assets/0438e99c-ea95-4e9f-bf8e-651a2c22e51c)
 
 
 
@@ -192,9 +195,8 @@ Steps for simulation – Run the simulation command with simulator options
 
 
 
-      
-
-
+  Window
+  
 
 
 
