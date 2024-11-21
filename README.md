@@ -226,18 +226,8 @@ Steps for simulation – Run the simulation command with simulator options
 ![exp3 output pdvlsi_085155](https://github.com/user-attachments/assets/0438e99c-ea95-4e9f-bf8e-651a2c22e51c)
 
 
-
-
-
-
-
-
-
-
-
-
-
-  Window
+Result:
+The functionality of a 4bit_up-down asynchronous reset Counter was successfully verified using a test bench and simulated with the nclaunch tool.
   
 
 
